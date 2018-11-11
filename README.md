@@ -1,0 +1,2 @@
+# EKSAMENFRSKANLI
+Exam project: CopenhagenXperience
